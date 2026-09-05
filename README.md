@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:06B6D4&height=220&section=header&text=Yash%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20in%20the%20making%20%7C%20C%2B%2B%20%26%20DSA%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" />
 
-<a href="https://linkedin.com/in/yourhandle">
+<a href="https://www.linkedin.com/in/developeryashhtiwari">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/Yash_Tiwari10">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:yt4369496@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/yourhandle">
+<a href="https://www.instagram.com/yash_tiwari10">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -34,10 +34,10 @@ graduating: 2028
 focus: SDE internships @ top tech companies -> long-term goal: Google SDE-1
 currently_learning: IBM PBEL Cloud Computing track
 approach: derive brute-force first, then optimize (Socratic learning)
-fun_fact: building a personal AI assistant inspired by Iron Man's F.R.I.D.A.Y.
+fun_fact: building a Artificial Intelligence Hospital Management System.
 ```
 
-- 🔭 Working on **F.R.I.D.A.Y.** — a Python-based personal AI assistant with voice control, system automation, an Iron-Man-style PyQt6 HUD, and cross-device sync via KDE Connect
+- 🔭 Working on **AI - Hospital Management System.**
 - 🌐 Building my **developer portfolio** at [yash-tiwari.dev](https://yash-tiwari.dev) — Next.js 15, Tailwind, Framer Motion, NextAuth (IBM Cloud App ID OAuth), deployed on Vercel
 - 📊 Grinding DSA daily on LeetCode with the **Striver A2Z sheet** in C++ — contest rating ~1489
 - ☁️ Wrapping up an **IBM Cloud** project: *Field Log*, an offline-first PWA (React + PouchDB + IBM Cloudant)
