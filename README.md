@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=B.Tech+CS+(AI+%26+Data+Science)+%40+GNIOT;Chasing+an+SDE-1+seat+at+Google;C%2B%2B+%7C+DSA+%7C+MERN+%7C+Cloud;Currently+shipping%3A+F.R.I.D.A.Y.+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=B.Tech+CS+(AI+%26+Data+Science)+%40+GNIOT;Chasing+an+SDE-1+seat+at+Google;C%2B%2B+%7C+DSA+%7C+MERN+%7C+Cloud;Currently+shipping%3A+F.R.I.D.A.Y.+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
@@ -34,10 +34,10 @@ graduating: 2028
 focus: SDE internships @ top tech companies -> long-term goal: Google SDE-1
 currently_learning: IBM PBEL Cloud Computing track
 approach: derive brute-force first, then optimize (Socratic learning)
-fun_fact: building a Artificial Intelligence Hospital Management System.
+fun_fact: building a personal AI assistant inspired by Iron Man's F.R.I.D.A.Y.
 ```
 
-- 🔭 Working on **AI - Hospital Management System.**
+- 🔭 Working on **F.R.I.D.A.Y.** — a Python-based personal AI assistant with voice control, system automation, an Iron-Man-style PyQt6 HUD, and cross-device sync via KDE Connect
 - 🌐 Building my **developer portfolio** at [yash-tiwari.dev](https://yash-tiwari.dev) — Next.js 15, Tailwind, Framer Motion, NextAuth (IBM Cloud App ID OAuth), deployed on Vercel
 - 📊 Grinding DSA daily on LeetCode with the **Striver A2Z sheet** in C++ — contest rating ~1489
 - ☁️ Wrapping up an **IBM Cloud** project: *Field Log*, an offline-first PWA (React + PouchDB + IBM Cloudant)
